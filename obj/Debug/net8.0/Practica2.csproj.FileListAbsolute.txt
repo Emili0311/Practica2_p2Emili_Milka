@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\Practica2_p2Emili_Milka\obj\Debug\net8.0\Practica2.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Practica2_p2Emili_Milka\obj\Debug\net8.0\Practica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Practica2_p2Emili_Milka\obj\Debug\net8.0\Practica2.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Practica2_p2Emili_Milka\obj\Debug\net8.0\Practica2.AssemblyInfo.cs
+C:\Users\PC\Documents\Practica2_p2Emili_Milka\obj\Debug\net8.0\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Practica2_p2Emili_Milka\obj\Debug\net8.0\Practica2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\Practica2_p2Emili_Milka\obj\Debug\net8.0\Practica2.RazorAssemblyInfo.cache
+C:\Users\PC\Documents\Practica2_p2Emili_Milka\obj\Debug\net8.0\Practica2.RazorAssemblyInfo.cs
+C:\Users\PC\Documents\Practica2_p2Emili_Milka\obj\Debug\net8.0\Practica2.sourcelink.json
